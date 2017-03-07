@@ -122,6 +122,17 @@
 	outline: none;
 }
 
+.widget-calculator form span {
+	padding: 10px 20px;
+	display: inline-block;
+	background-color: #f3e721;
+	color: #000;
+	text-transform: uppercase;
+	border: none;
+	font-weight: bold;
+	font-size: 12px;
+}
+
 .widget-calculator form input[type="submit"] {
 	padding: 10px 20px;
 	display: inline-block;

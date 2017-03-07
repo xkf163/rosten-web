@@ -267,6 +267,11 @@ p,
 	color: #777;
 }
 
+.logo-block .call-us  span
+{
+	font-family: 'Lato', sans-serif;
+}
+
 .logo-block .call-us p > span,
 .service-box-inner a:hover,
 .testimonial .carousel-caption h3,
